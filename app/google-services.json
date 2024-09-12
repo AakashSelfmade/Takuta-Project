@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "230076677653",
+    "project_id": "takuta-backend",
+    "storage_bucket": "takuta-backend.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:230076677653:android:fc5e03f9233e9aed2d581c",
+        "android_client_info": {
+          "package_name": "com.example.takuta"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAaAbsT_Pq0M827xcyEq2B46-EJ7o0O2yk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
